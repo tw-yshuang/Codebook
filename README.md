@@ -2,6 +2,14 @@
 
 Implementation of paper - [Real-time foreground–background segmentation using codebook model](https://www.sciencedirect.com/science/article/pii/S1077201405000057)
 
+## Requirement
+
+python version: 3.8(tested)
+
+```shell
+pip install numpy opencv-python
+```
+
 ## Description
 
 There are 3 files, and the purpose of each file is shown below:
